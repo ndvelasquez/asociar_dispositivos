@@ -1,0 +1,7 @@
+{
+  "type": "module",
+  "dependencies": {
+    "chargebee": "^2.29.0",
+    "node-fetch": "^2.6.6"
+  }
+}
